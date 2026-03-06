@@ -35,7 +35,7 @@ public class XuatSac5 {
             User user = new User(-1);
             System.out.println(user.toString());
         } catch (InvalidAgeException e) {
-            System.out.println("Tuoi khong hop le");
+            System.out.println("[ERROR] 2026-03-06");
         }
     }
 }

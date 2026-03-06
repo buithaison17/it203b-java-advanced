@@ -15,7 +15,7 @@ public class Gioi4 {
         try {
             processUserData();
         } catch (IOException e) {
-            System.out.println("Da xay ra loi: " + e.getMessage());
+            System.out.println("[ERROR] 2026-03-06");
         }
     }
 }
