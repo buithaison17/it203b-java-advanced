@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/baitap3/Bai3.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/baitap4/Bai4.java" dialect="GenericSQL" />
+  </component>
+</project>
